@@ -1,0 +1,40 @@
+html {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+body {
+    background-image: url("wp2021770.jpg");
+    background-position: center;
+}
+
+img {
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    height: 200px;
+    width: 200px;
+}
+
+.facebook {
+    font-size: larger;
+    line-height: 0.5;
+}
+
+.contactnumber {
+    font-size: larger;
+    line-height: 0.5;
+}
+
+h2 {
+    line-height: 2.5;
+}
+
+.achievements {
+    line height: 2.5;
+}
+
+.skills {
+    display: table;
+    margin: 0 auto;
+}
